@@ -1,0 +1,2 @@
+atm machine 
+balance enquiry
